@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Sitemap produksi belum ditautkan karena URL GitHub Pages belum ditetapkan.
+# Semua halaman publik masih noindex sampai konten resmi diisi dan disetujui.
+# Setelah siap, jalankan scripts/prepare-seo-launch.py sesuai SEO-LAUNCH-CHECKLIST.md.

@@ -1,0 +1,113 @@
+{
+  "package": "PULESARI-SINGLE-HTML",
+  "pages": [
+    {
+      "file": "404.html",
+      "bytes": 403003,
+      "css_inline": true,
+      "js_inline": true,
+      "assets_inline": true
+    },
+    {
+      "file": "data-penduduk.html",
+      "bytes": 747896,
+      "css_inline": true,
+      "js_inline": true,
+      "assets_inline": true
+    },
+    {
+      "file": "galeri-dokumentasi.html",
+      "bytes": 462396,
+      "css_inline": true,
+      "js_inline": true,
+      "assets_inline": true
+    },
+    {
+      "file": "index.html",
+      "bytes": 887420,
+      "css_inline": true,
+      "js_inline": true,
+      "assets_inline": true
+    },
+    {
+      "file": "kegiatan-agenda.html",
+      "bytes": 769939,
+      "css_inline": true,
+      "js_inline": true,
+      "assets_inline": true
+    },
+    {
+      "file": "kelembagaan.html",
+      "bytes": 747625,
+      "css_inline": true,
+      "js_inline": true,
+      "assets_inline": true
+    },
+    {
+      "file": "kontak.html",
+      "bytes": 586064,
+      "css_inline": true,
+      "js_inline": true,
+      "assets_inline": true
+    },
+    {
+      "file": "layanan-masyarakat.html",
+      "bytes": 472577,
+      "css_inline": true,
+      "js_inline": true,
+      "assets_inline": true
+    },
+    {
+      "file": "pengaturan.html",
+      "bytes": 496554,
+      "css_inline": true,
+      "js_inline": true,
+      "assets_inline": true
+    },
+    {
+      "file": "peta-interaktif.html",
+      "bytes": 461456,
+      "css_inline": true,
+      "js_inline": true,
+      "assets_inline": true
+    },
+    {
+      "file": "potensi-dusun.html",
+      "bytes": 769221,
+      "css_inline": true,
+      "js_inline": true,
+      "assets_inline": true
+    },
+    {
+      "file": "produk-hukum-dusun.html",
+      "bytes": 747343,
+      "css_inline": true,
+      "js_inline": true,
+      "assets_inline": true
+    },
+    {
+      "file": "profil-dusun.html",
+      "bytes": 848557,
+      "css_inline": true,
+      "js_inline": true,
+      "assets_inline": true
+    },
+    {
+      "file": "program-dusun.html",
+      "bytes": 770254,
+      "css_inline": true,
+      "js_inline": true,
+      "assets_inline": true
+    },
+    {
+      "file": "pusat-informasi.html",
+      "bytes": 471559,
+      "css_inline": true,
+      "js_inline": true,
+      "assets_inline": true
+    }
+  ],
+  "strategy": "Inline CSS, inline JavaScript, inline local image assets per page",
+  "source": "pulesari_final_build",
+  "runtime_local_dirs_required": false
+}
